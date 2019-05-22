@@ -4,6 +4,7 @@
     "dev": "nuxt"
   },
   "dependencies": {
+    "mongodb": "^3.2.5",
     "nuxt": "^2.6.3"
   }
 }
